@@ -7,8 +7,8 @@ Este es un repositorio solamente para reportar bugs y problemas relacionados con
 
 Si enecuentras algun bug extramadamente potente no lo reportes aqui, has lo siguiente:
 
-1. Contacta [por privado al staff](mailto:support@oc.tc?subject=Important%20security%20vulnerability) about the issue.
-2. **Do not** publicly disclose the issue immediately (give Overcast Network staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
+1. Contacta [por privado al staff](mailto:thetowersnet@keet.us?subject=Important%20security%20vulnerability) about the issue.
+2. **Do not** publicly disclose the issue immediately (give Keet Network staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
 
 ## Submitting
 
@@ -59,8 +59,3 @@ Try to separate your description into three different sections, if possible:
 3. **Miscellaneous information**
 
     Information that doesn't necessarily fit into any other sections. Common examples are attachments, images, or disclaimers.
-
-
-## Weeklies
-
-'Weeklies' are issue tracker milestones created by Overcast Network staff each weekend. Issues slated to be resolved on any given weekend are assigned to that weekend's relative milestone, so that progress on the weekend's issues can be easily visualized.
