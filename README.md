@@ -1,13 +1,13 @@
 Issues
 ======
 
-Este es un repositorio solamente para reportar bugs y problemas relacionados con KeetNetwork.
+This is a repository which you can report all the issues on the network.
 
 ### Importante:
 
-Si enecuentras algun bug extramadamente potente no lo reportes aqui, has lo siguiente:
+If you find a big bug, what you should do is:
 
-1. Contacta [por privado al staff](mailto:thetowersnet@keet.us?subject=Important%20security%20vulnerability) about the issue.
+1. Contact [privatly to the staff](mailto:thetowersnet@keet.us?subject=Important%20security%20vulnerability) about the issue.
 2. **Do not** publicly disclose the issue immediately (give Keet Network staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
 
 ## Submitting
